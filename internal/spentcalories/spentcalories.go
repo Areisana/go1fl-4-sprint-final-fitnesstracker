@@ -15,6 +15,7 @@ const (
 
 func parseTraining(data string) (int, string, time.Duration, error) {
 	// TODO: реализовать функцию
+
 }
 
 func distance(steps int, height float64) float64 {
